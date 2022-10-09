@@ -2,13 +2,9 @@ package ArrayList;
 
 public class ArrayList{
 	
-	
 	private int size =0;	//arraylist의 크기
 	private Object[] elementData = new Object[100];	//ArrayList가 될 배열
 	
-	
-	
-
 	public void add(int index, Object element){
 		
 		for(int i =size-1; i>= index; i--){	// 뒤에서부터 넣어주어야 중간 데이터의 손실이 없다. 
