@@ -94,7 +94,7 @@ public class ArrayList{
 	public ListIterator listIterator() {
 		return new ListIterator();
 	}
-	class ListIterator{
+	public class ListIterator{
 		
 		private int nextIndex=0;
 
