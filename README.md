@@ -4,6 +4,9 @@
 <br>
 
 ## Contents
+- [LinkedList](src/linkedList)
+- [DoublyLinkedList](src/doublyLinkedList)
 - [ArrayList](src/ArrayList)
-
+- [Tree](src/Tree)
+- [Heap](src/Heap)
 
